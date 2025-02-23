@@ -8,9 +8,9 @@
 
 🔴🟠🟡🟢🔵🟣🌈👁️✨🎨✒️🖋️🖌️🖍️
 
-This repository serves as a centralized hub for curating, organizing, and managing my [LUTs](https://en.wikipedia.org/wiki/Lookup_table#:~:text=3%5D%5D)%3B%0A%7D%7D-,Lookup%20tables%20in%20image%20processing,-%5Bedit%20source) (Color Grading) collection.
+This repository serves as a centralized hub for curating, organizing, and managing my [LUTs](https://en.wikipedia.org/wiki/Lookup_table#Lookup_tables_in_image_processing) (Color Grading) collection.
 
-Click [here](./"Daniel Vartanian") to check my LUTs.
+Click [here](./Daniel%20Vartanian) to check my LUTs.
 
 ## Favorites
 
